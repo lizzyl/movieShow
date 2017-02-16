@@ -1,0 +1,43 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "grunt",
+    "test": "grunt test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "connect": "^3.5.0",
+    "connect-mongo": "^0.8.2",
+    "connect-multiparty": "^2.0.0",
+    "cookie-parser": "^1.4.3",
+    "crypto": "0.0.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "fs": "0.0.1-security",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "grunt-nodemon": "^0.4.2",
+    "jade": "^1.11.0",
+    "mocha": "^3.1.2",
+    "moment": "^2.15.1",
+    "mongoose": "^4.6.3",
+    "morgan": "^1.7.0",
+    "mpromise": "^0.5.5",
+    "path": "^0.12.7",
+    "promise": "^7.1.1",
+    "session": "^0.1.0",
+    "should": "^11.1.1",
+    "underscore": "^1.8.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2"
+  }
+}

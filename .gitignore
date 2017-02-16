@@ -1,0 +1,9 @@
+node_modules
+.svn
+.DS_Store
+*.log
+public
+Desktop.ini
+tmp.md
+build/appConfig.js
+*.log.*
